@@ -31,7 +31,7 @@ What I like in programming:
 
 - Infrastructure as Code
 
-- SOLID principal and Clean code
+- SOLID principles and Clean code
 
 - WEB
 
