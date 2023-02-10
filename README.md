@@ -1,10 +1,59 @@
-- 👋 Hi, I’m @Marc-Anthony Girard
-- 👀 I’m interested in every thing in coding
-- 🌱 I’m currently learning software ingenering @ULaval
-- 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me marcanthony.girard.pro@gmail.com
+## About me :wave:
 
-<!---
-Marc-AnthonyG/Marc-AnthonyG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Marc-Anthony Girard AKA @Marc-AnthonyG
+
+I'm currently in second year in sofware engenering at @ULaval in Québec City. I'm currently working part time at @Nexapp as a full stack developper. You can check my website at <mark>magirard-tech.com</mark>. 
+
+## Hability :muscle:
+
+I am really familliar with those language:
+- Ruby
+
+- Typescript
+
+- Python 
+
+- Java
+
+- SQL
+
+I love those framework ❤️ :
+
+- React (particully Nextjs)
+
+- Flask
+
+- Vue
+
+- Ruby on rails
+
+What I like in programming: 
+
+- Infrastructure as Code
+
+- SOLID principal and Clean code
+
+- WEB
+
+- Backend
+
+
+## 2023 Goal :dart:
+
+- Learn Rust
+
+- Finishing my web site
+
+- Do open source project
+
+
+## Project
+
+- I am currently working on a website for the "association du canoë de béton de l'université Laval"
+
+- I want to deploy a CV on my website
+
+
+## Contact Me :grin:
+
+:email: You can contact me by my professional adress: marcanthony.girard.pro@gmail.com
