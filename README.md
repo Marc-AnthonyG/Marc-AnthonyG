@@ -19,7 +19,7 @@ I am really familliar with those language:
 
 I love those framework ❤️ :
 
-- React (particully Nextjs)
+- React (particularly Nextjs)
 
 - Flask
 
