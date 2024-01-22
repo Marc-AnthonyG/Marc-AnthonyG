@@ -38,7 +38,7 @@ What I like in programming:
 - Backend
 
 
-## 2023 Goal :dart:
+## 2024 Goal :dart:
 
 - Learn Rust
 
