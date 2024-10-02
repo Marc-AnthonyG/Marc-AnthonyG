@@ -2,7 +2,7 @@
 
 Hi, I’m Marc-Anthony Girard AKA @Marc-AnthonyG
 
-I'm currently in second year in sofware engenering at @ULaval in Québec City. I'm currently working part time at @Nexapp as a full stack developper. You can check my website at <mark>magirard-tech.com</mark>. 
+I'm currently in second year in sofware engenering at @ULaval in Québec City.
 
 ## Hability :muscle:
 
