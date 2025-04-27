@@ -1,59 +1,28 @@
-## About me :wave:
+# 👋 Hi there, I'm Marc-Anthony Girard
 
-Hi, I’m Marc-Anthony Girard AKA @Marc-AnthonyG
+🎓 Software Engineer | Full-Stack & DevOps Enthusiast | Université Laval Graduate
 
-I'm currently in second year in sofware engenering at @ULaval in Québec City.
+I'm a recent Software Engineering graduate from Université Laval in Québec City, passionate about building robust, scalable, and maintainable software solutions. My interests lie in full-stack development, infrastructure as code, and adhering to clean code principles.
 
-## Hability :muscle:
+## 🛠️ Technical Skills
+Languages: Java, TypeScript, Ruby
 
-I am really familliar with those language:
-- Ruby
+Frameworks & Libraries: React (with a focus on Next.js), Vue.js, Spring Boot, Ruby on Rails
 
-- Typescript
+Areas of Interest: Infrastructure as Code (IaC), SOLID principles & Clean Code, Web Development, Backend Engineering
 
-- Python 
+## 🎯 2025 Goals
+Dive into Rust programming 
 
-- Java
+Contribute to open-source projects
 
-- SQL
+📫 Let's Connect
+Feel free to reach out:
 
-I love those framework ❤️ :
+📧 Email: marcanthony.girard.pro@gmail.com
 
-- React (particularly Nextjs)
+💼 LinkedIn: Marc-Anthony Girard
 
-- Flask
+“I may not be signing off on bridge designs or constructing the next skyscraper, but I am starting my journey with the determination to stay honest and not use my skills to take advantage of others.”
+— Marc-Anthony Girard, reflecting on the Engineer’s Oath ceremony
 
-- Vue
-
-- Ruby on rails
-
-What I like in programming: 
-
-- Infrastructure as Code
-
-- SOLID principles and Clean code
-
-- WEB
-
-- Backend
-
-
-## 2024 Goal :dart:
-
-- Learn Rust
-
-- Finishing my web site
-
-- Do open source project
-
-
-## Project
-
-- I am currently working on a website for the "association du canoë de béton de l'université Laval"
-
-- I want to deploy a CV on my website
-
-
-## Contact Me :grin:
-
-:email: You can contact me by my professional adress: marcanthony.girard.pro@gmail.com
